@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "S. Holden Jones"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,13 +23,14 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "S. Holden Jones"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Studying biodiversity maintenance and restoration in
+                      fragmented tropical forests"
+  location         : "Honolulu, HI"
+  employer         : "University of Hawaiʻi"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jonessh@hawaii.edu" 
 
   # Academic websites
   academia         : # URL
