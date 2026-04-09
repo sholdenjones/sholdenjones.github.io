@@ -2,7 +2,7 @@
 title: "<i>Danthonia californica</i> seedling emergence"
 collection: publications
 category: manuscripts
-permalink: /publication/Jones et al. 2023 - Danthonia californica seedling emergence
+permalink: /publication/dancal_paper
 excerpt: 'This paper is about seedling emergence in <i>Danthonia californica</i>. The number 2 is left for future work.'
 date: 2023
 venue: 'Journal 1'
