@@ -1,11 +1,11 @@
 ---
-title: "<i>Danthonia californica</i> seedling emergence"
+title: "Seed type and origin-dependent seedling emergence patterns in <i>Danthonia californica</i>, a species commonly used in grassland restoration"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-02-27-dancal-paper
-excerpt: 'This paper is about seedling emergence in <i>Danthonia californica</i>. The number 2 is left for future work.'
+excerpt: 'We performed a common garden experiment using cleistogamous and chasmogamous seeds of <i> D. californica</i> sourced from eight populations along a latitudinal gradient. Cleistogamous seeds outperformed chasmogamous seeds despite being smaller, and there being no evidence of local adaptation'
 date: 2023-02-27
-venue: 'Journal 1'
+venue: 'Plant-Environment Interactions'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/dancal_paper.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
