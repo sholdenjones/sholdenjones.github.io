@@ -7,7 +7,7 @@ excerpt: 'We compared amphibian community assemblages across shade and sun cacao
 date: 2026-02-12
 venue: 'Biotropica'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://sholdenjones.github.io/files/caca_ranas_paper.pdf'
+paperurl: 'http://sholdenjones.github.io/files/cacao_ranas_paper.pdf'
 citation: 'Jones, S. H., Franco‐Mena, D., Cantos, D. Z., Velez, J. C. L., Velásquez‐Espín, F., Guayasamin, J. M., & Zahawi, R. A. (2026). Shade cacao plantations provide little conservation benefit for forest‐dependent amphibians in the Ecuadorian Chocó. <i>Biotropica</i>, 58(2), e70196. https://doi.org/10.1111/btp.70196'
 ---
 
