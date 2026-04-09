@@ -2,12 +2,12 @@
 title: "<i>Danthonia californica</i> seedling emergence"
 collection: publications
 category: manuscripts
-permalink: /publication/dancal_paper
+permalink: /publication/2023-02-27-dancal-paper
 excerpt: 'This paper is about seedling emergence in <i>Danthonia californica</i>. The number 2 is left for future work.'
-date: 2023
+date: 2023-02-27
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/Jones et al. 2023 - Danthonia californica seedling emergence.pdf'
+paperurl: 'http://academicpages.github.io/files/dancal_paper.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
