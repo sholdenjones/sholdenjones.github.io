@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Botany, University of Hawaiʻi at Mānoa, 2026 (expected)
+* B.A. in Biology, Lewis & Clark College, 2018
 
 Work experience
 ======
