@@ -11,4 +11,17 @@ paperurl: 'http://sholdenjones.github.io/files/bilsa_paper.pdf'
 citation: 'Jones, S. H., Franco-Mena, D., Zambrano Cantos, D., Loor Vélez, J. C., Aulestia, C., Zahawi, R. A., & Guayasamin, J. M. (2024). Range expansion for the Critically Endangered poison-dart frog Leucostethus bilsa Vigle et al., 2020 (Amphibia, Dendrobatidae), demonstrating the importance of small forest reserves in the Ecuadorian Chocó. <i>Check List</i>, 20(4), 853–858. https://doi.org/10.15560/20.4.853'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+We happened to find an individual of the Critically Endangered *Leucostethus bilsa* 
+during a large sampling effort assessing amphibian community composition across 
+cacao and forest sites near the FCAT Reserve in Esmeraldas, Ecuador 
+(see [Jones et al. 2026](http://sholdenjones.github.io/files/cacao_ranas_paper.pdf)). 
+
+![L. bilsa](/images/L_bilsa_pic.png){: .align-left width="100%" style="margin-bottom: 1.5rem;"}
+
+We explored further and found what appears to be a stable population of the species 
+within the FCAT Reserve. This finding expands the species' extent of occupancy from 0.9 to 4.8 km<sup>2</sup>,
+and the area of occupancy from 9.0 to 16.0 km<sup>2</sup>.
+
+![L. bilsa map](/images/bilsa_map.png){: .align-left width="100%" style="margin-bottom: 1.5rem;"}
+
+More research is needed to assess the distribution and threat status of *Leucostethus bilsa*.

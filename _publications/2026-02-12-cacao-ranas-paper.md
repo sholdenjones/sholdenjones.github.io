@@ -10,7 +10,7 @@ paperurl: 'http://sholdenjones.github.io/files/cacao_ranas_paper.pdf'
 citation: 'Jones, S. H., Franco‐Mena, D., Cantos, D. Z., Velez, J. C. L., Velásquez‐Espín, F., Guayasamin, J. M., & Zahawi, R. A. (2026). Shade cacao plantations provide little conservation benefit for forest‐dependent amphibians in the Ecuadorian Chocó. <i>Biotropica</i>, 58'
 ---
 
-![Figure 4](/images/cacao-ranas-fig-4.jpg){: .align-left width="100%" style="margin-bottom: 1.5rem;"}
+![Cacao sites](/images/cacao_ranas_sites.png){: .align-left width="100%" style="margin-bottom: 1.5rem;"}
 
 We compared the community assemblage of amphibians across shade and sun cacao plantations,
 remnant forest, and abandoned cacao plantations in the Ecuadorian Chocó. We found no 
@@ -18,5 +18,9 @@ difference in the amphibian communities between shade and sun cacao plantations,
 higher extrapolated diversity and abundance of species of conservation-concern in
 remnant forest and abandoned plantation sites.
 
-![O. sylvatica](/images/O_sylvatica.jpg){: .align-left width="100%" style="margin-bottom: 1.5rem;"}
+![Figure 4](/images/plot_extrapolate_arrange.png){: .align-left width="100%" style="margin-bottom: 1.5rem;"}
 
+We think widespread pesticide use partially explains the lack of difference between shade 
+and sun cacao plantations.
+
+![O. sylvatica](/images/O_sylvatica.jpg){: .align-left width="100%" style="margin-bottom: 1.5rem;"}
